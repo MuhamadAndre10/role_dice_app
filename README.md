@@ -1,6 +1,7 @@
 # Role Dice App
 
 ### game sederhana | acak dadu
+> This Project just for learning
 ![https://github.com/MuhamadAndre10/role_dice_app/blob/main/assets/role%20dice%20app.png](https://github.com/MuhamadAndre10/role_dice_app/blob/main/assets/role%20dice%20app.png?raw=true)
 
 ## Getting Started
